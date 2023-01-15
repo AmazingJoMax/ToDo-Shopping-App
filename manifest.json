@@ -1,27 +1,27 @@
 {
   "name": "Shopping App",
-  "short_name": "Shopping App",
+  "short_name": "Shoppa",
   "icons": [
     {
-      "src": "./assets/icon-192.png",
+      "src": "./resources/icon.jpg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/icon-384.png",
+      "src": "./resources/icon.jpg",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "./assets/icon-512.png",
+      "src": "./resources/icon.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
-  "start_url": "/shopping-app/",
+  "start_url": "/ToDo-Shopping-App/",
   "display": "standalone",
   "orientation": "portrait"
 }
